@@ -1,5 +1,7 @@
 function shadowbox(options){
 
+    let images = document.querySelectorAll('.shadowbox')
+
     if (options.shadow_type === 'hard')
     options.shadow_type = '0px'
 

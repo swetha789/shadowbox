@@ -12,5 +12,5 @@ import { shadowbox } from 'shadowbox';
 
 shadowbox({
     shadow_type:'soft',
-    paddind:false
+    padding:false
 });
